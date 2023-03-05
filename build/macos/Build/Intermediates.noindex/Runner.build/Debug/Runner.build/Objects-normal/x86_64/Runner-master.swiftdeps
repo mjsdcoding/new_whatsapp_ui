@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "4c569e0d459efe08070fa897ca4e170b09a1cf11f5a03b4ec17eb3e7d21e2b33"
+build_start_time: [1677986084, 18646001]
+build_end_time: [1677986109, 831421852]
+inputs:
+  "/Users/julie/Desktop/github_youtube/new_whatsapp_ui/macos/Flutter/GeneratedPluginRegistrant.swift": [1677985995, 90790748]
+  "/Users/julie/Desktop/github_youtube/new_whatsapp_ui/macos/Runner/AppDelegate.swift": [1676425100, 920278549]
+  "/Users/julie/Desktop/github_youtube/new_whatsapp_ui/macos/Runner/MainFlutterWindow.swift": [1676425100, 923619031]
